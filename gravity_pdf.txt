@@ -1,0 +1,30 @@
+# Guidelines when working with GravityPDF
+
+## GravityPDF Templates
+
+Filename: CATEGORY-descriptive_name.php
+
+Template Header
+/*
+ * Template Name: Descriptive Name of Template
+ * Version: 1.0
+ * Description: Description of what template does and clients name
+ * Author: Bliksem LLC
+ * Author URI: https://implifysmallbiz.com
+ * Group: 1. Development (See Defintitions below)T
+ * Required PDF Version: 4.4.0
+ * Toolkit: true
+ */
+
+ GROUP:
+ We use this to manage the stage of development for a template. Stages are as follows
+
+ 0. To Do
+ 1. Development
+ 2. Awaiting Layout Approval
+ 3. Source Data
+ 4. Testing Internal
+ 5. Testing by clients
+ 6. Move to Live Server
+ 7. Live Server Testing
+ 8. Live Server Client Approved
