@@ -1,6 +1,6 @@
 # Guidelines when working with GravityPDF
 
-## GravityPDF Templates
+## Guidelines when working creating GravityPDF Custom Templates
 
 Filename: CATEGORY-descriptive_name.php
 
@@ -10,7 +10,7 @@ Template Header
  * Version: 1.0
  * Description: Description of what template does and clients name
  * Author: Bliksem LLC
- * Author URI: https://implifysmallbiz.com
+ * Author URI: https://simplifysmallbiz.com
  * Group: 1. Development (See Defintitions below)T
  * Required PDF Version: 4.4.0
  * Toolkit: true
@@ -21,8 +21,9 @@ Template Header
 
  0. To Do
  1. Development
+ 1.1 2nd Reviewer
  2. Awaiting Layout Approval
- 3. Source Data
+ 3. Connect to Source Data
  4. Testing Internal
  5. Testing by clients
  6. Move to Live Server
