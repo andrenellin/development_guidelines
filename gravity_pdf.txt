@@ -19,13 +19,13 @@ Template Header
  GROUP:
  We use this to manage the stage of development for a template. Stages are as follows
 
- 0. To Do
- 1. Development
- 1.1 2nd Reviewer
- 2. Awaiting Layout Approval
- 3. Connect to Source Data
- 4. Testing Internal
- 5. Testing by clients
- 6. Move to Live Server
- 7. Live Server Testing
- 8. Live Server Client Approved
+ 0 To Do
+ 1 Development
+ 2 Second Reviewer
+ 3 Awaiting Layout Approval
+ 4 Connect to Source Data
+ 5 Testing Internal
+ 6 Testing by clients
+ 7 Move to Live Server
+ 8 Live Server Testing
+ 9 Live Server Client Approved
